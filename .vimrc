@@ -6,6 +6,7 @@
 "    Created: 2010-01-01
 " LastChange: 2010-04-22
 
+
 " GENERAL SETTINGS: {{{1
 " To use VIM settings, out of VI compatible mode.
 set nocompatible
@@ -14,8 +15,9 @@ filetype plugin indent on
 " Syntax highlighting.
 syntax on
 " Setting colorscheme
-color mycolor
+"color mycolor
 " Other settings.
+colorscheme desert
 set   autoindent
 set   autoread
 set   autowrite
